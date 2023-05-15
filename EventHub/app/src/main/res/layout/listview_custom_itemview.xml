@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@android:id/text1"
+    android:layout_width="match_parent"
+    android:layout_height="70sp"
+    android:textSize="26sp"
+    android:padding="15dp"
+    android:textStyle="bold"
+    android:hint="Robo Wars 19.0"
+    android:fontFamily="sans-serif-condensed"
+    android:background="#D3BFEB"
+    android:paddingVertical="20dp"
+    android:textAppearance="?android:attr/textAppearanceListItemSmall"
+    android:gravity="center_vertical"
+    android:paddingStart="?android:attr/listPreferredItemPaddingStart"
+    android:paddingEnd="?android:attr/listPreferredItemPaddingEnd"
+    android:minHeight="?android:attr/listPreferredItemHeightSmall"
+    />
+

@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EventHUB</string>
+    <string name="LoginAsCoordinator">Login as Coordinator</string>
+    <string name="LoginAsStudent">Login as Student</string>
+    <string name="OR">OR</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="DeleteEvent">Delete Event</string>
+    <string name="Before10Min">Before 10 Min</string>
+    <string name="Before20Min">Before 20 Min</string>
+    <string name="Custom">Custom</string>
+    <string name="ShowEvents">Show Events</string>
+</resources>
